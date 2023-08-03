@@ -1,4 +1,5 @@
 YOUTUBE DATA HARVESTING AND WAREHOUSING
+
 PROJECT TITLE :
 YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
 
@@ -27,6 +28,7 @@ We can use a Python SQL library such as SQLAlchemy to interact with the SQL data
 6. Displaying data in the Streamlit app:
 Finally,we display the retrieved data in the Streamlit app.
 We can use Streamlit's data visualization features to create charts and graphs to help users analyze the data.
+
 DEVELOPER GUIDE:
 TOOLS:
 
@@ -36,21 +38,23 @@ PyCharm
 MySQL
 MongoDB
 Streamlit
+
 SKILLS:
 
 Python scripting
 API integration
 Data Collection
 Data Management using MongoDB and SQL
+
 USER GUIDE:
+
 STEP 1: CHANNEL ID
 Obtain the channel id from the channel for which the data to retrieved.
+
 STEP 2: DATA ZONE
 COLLECT TAB
-
 Enter the channel id in the Enter the Channel id input box in COLLECT TAB
 After entering the channel id, click on the Retrieve and Store data button to retrieve and store data to MongoDB.
-
 
 EXTRACT TAB
 
@@ -58,7 +62,6 @@ The retrieved channel name appears in the dropdown in the extract tab.
 Select the channel
 Click on the Migrate to MySQL button.
 Data will be migrated from MongoDB to MySQL.
-
 
 STEP 3 : ANALYSIS ZONE
 Click on the check box to check the updation of the channel
