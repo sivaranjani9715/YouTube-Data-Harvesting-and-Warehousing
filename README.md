@@ -33,17 +33,25 @@ DEVELOPER GUIDE:
 TOOLS:
 
 YouTube API Key
+
 Python 3.11.0 or higher.
+
 PyCharm
+
 MySQL
+
 MongoDB
+
 Streamlit
 
 SKILLS:
 
 Python scripting
+
 API integration
+
 Data Collection
+
 Data Management using MongoDB and SQL
 
 USER GUIDE:
