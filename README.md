@@ -2,6 +2,8 @@
 
 **PROJECT TITLE:**
 YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
+
+
 **
 DOMAIN:**
 SOCIAL MEDIA
@@ -9,20 +11,27 @@ SOCIAL MEDIA
 **PROCEDURE: **
 1. Setting up a Streamlit app:
     •	Streamlit is a great choice for building data visualization and analysis tools quickly and easily.
+   
     •	We can use Streamlit to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse.
-2. Connecting to the YouTube API:
+   
+3. Connecting to the YouTube API:
+    •	We will need to use the YouTube API to retrieve channel and video data.
+   
+    •	we can use the Google API client library for Python to make requests to the API.
+   
+4. Connecting to the YouTube API:
     •	We will need to use the YouTube API to retrieve channel and video data.
     •	we can use the Google API client library for Python to make requests to the API.
-3. Storing data in a MongoDB data lake:
+5. Storing data in a MongoDB data lake:
     •	After retrieving the data from the YouTube API, we should store it in a MongoDB data lake.
     •	MongoDB is a great choice for a data lake because it can handle unstructured and semi-structured data easily.
-4. Migrating data to a SQL data warehouse:
+6. Migrating data to a SQL data warehouse:
     •	After collecting data of multiple channels, we should migrate it to a SQL data warehouse.
     •	We can use a SQL database such as MySQL or PostgreSQL for this.Here we have used MySQL
-5. Query the SQL data warehouse:
+7. Query the SQL data warehouse:
     •	We can use SQL queries to join the tables in the SQL data warehouse and retrieve data for specific channels based on user input.
     •	We can use a Python SQL library such as SQLAlchemy to interact with the SQL database.
-6. Displaying data in the Streamlit app:
+8. Displaying data in the Streamlit app:
     •	Finally,we display the retrieved data in the Streamlit app.
     •	We can use Streamlit's data visualization features to create charts and graphs to help users analyze the data.
 
