@@ -46,9 +46,9 @@ SOCIAL MEDIA
   
   •	We can use Streamlit's data visualization features to create charts and graphs to help users analyze the data.
 
-#DEVELOPER GUIDE:
+# DEVELOPER GUIDE:
 
-#TOOLS:
+# TOOLS:
 
 •	YouTube API Key
 
