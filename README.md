@@ -114,5 +114,5 @@ SOCIAL MEDIA
 # RESULT:
   Developing a user-friendly Streamlit application that enables users to search for channel details and join tables to view data in the Streamlit app.
 
-# DEMO VIDEO:
+# DEMO VIDEO: https://drive.google.com/file/d/1zR5bY1lQkdYH4j-qhajkrV_Dou0rmicg/view?usp=sharing
 
